@@ -1,0 +1,5 @@
+# [(seqno - aru)+1] % window_size <---> Buffer filled at the slowest node, say,
+fill_buff
+# window_size - fill_buff  <--> empty buffer at the slowest node.
+# Which is the better implementaion array of linked list in the packet
+# Needs to write routine to update my_aru
